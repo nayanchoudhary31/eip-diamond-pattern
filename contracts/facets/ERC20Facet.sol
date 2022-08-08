@@ -14,7 +14,7 @@ contract ERC20Facet {
     }
 
     function symbol() external pure returns (string memory) {
-        return unicode":eyes:";
+        return unicode"👀";
     }
 
     function decimals() external pure returns (uint8) { 
